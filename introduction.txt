@@ -1,0 +1,3 @@
+Hello! 
+My name is Erika Tharp, and I live in Seattle, WA.
+I'm very excited to learn more about web development!
